@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh kifty
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh Choirul Rizqy Agung Prasetyo
 
 ### Dibuat Oleh :
-##### Kifty
+##### Choirul Rizqy Agung Prasetyo
 ### NIM
-##### G.111.21.1988
+##### G.111.22.0002
